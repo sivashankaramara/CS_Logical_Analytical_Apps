@@ -1,0 +1,11 @@
+F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\StringReverseWithOut\bin\Debug\netcoreapp2.2\StringReverseWithOut.deps.json
+F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\StringReverseWithOut\bin\Debug\netcoreapp2.2\StringReverseWithOut.runtimeconfig.json
+F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\StringReverseWithOut\bin\Debug\netcoreapp2.2\StringReverseWithOut.runtimeconfig.dev.json
+F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\StringReverseWithOut\bin\Debug\netcoreapp2.2\StringReverseWithOut.dll
+F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\StringReverseWithOut\bin\Debug\netcoreapp2.2\StringReverseWithOut.pdb
+F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\StringReverseWithOut\obj\Debug\netcoreapp2.2\StringReverseWithOut.csprojAssemblyReference.cache
+F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\StringReverseWithOut\obj\Debug\netcoreapp2.2\StringReverseWithOut.csproj.CoreCompileInputs.cache
+F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\StringReverseWithOut\obj\Debug\netcoreapp2.2\StringReverseWithOut.AssemblyInfoInputs.cache
+F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\StringReverseWithOut\obj\Debug\netcoreapp2.2\StringReverseWithOut.AssemblyInfo.cs
+F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\StringReverseWithOut\obj\Debug\netcoreapp2.2\StringReverseWithOut.dll
+F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\StringReverseWithOut\obj\Debug\netcoreapp2.2\StringReverseWithOut.pdb
