@@ -18,3 +18,4 @@ F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\CharactersCountI
 F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\CharactersCountInString\obj\Debug\netcoreapp2.2\CharactersCountInString.AssemblyInfo.cs
 F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\CharactersCountInString\obj\Debug\netcoreapp2.2\CharactersCountInString.dll
 F:\Projects\C#\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\CharactersCountInString\obj\Debug\netcoreapp2.2\CharactersCountInString.pdb
+C:\SivaProjects\CS_Logical_Analytical_Apps\LogicalAnalyticalApps\CharactersCountInString\obj\Debug\netcoreapp2.2\CharactersCountInString.csprojAssemblyReference.cache

@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringReverseWithPredefined
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringReverseWithOut", "StringReverseWithOut\StringReverseWithOut.csproj", "{49D50268-69DA-4FAE-A660-BAE5D7039CB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddSpacesBetweenCharactersInString", "AddSpacesBetweenCharactersInString\AddSpacesBetweenCharactersInString.csproj", "{B02E8568-E0BD-47A7-8B6A-ACEF6C09E738}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddSpacesBetweenCharactersInString", "AddSpacesBetweenCharactersInString\AddSpacesBetweenCharactersInString.csproj", "{B02E8568-E0BD-47A7-8B6A-ACEF6C09E738}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharactersCountInString", "CharactersCountInString\CharactersCountInString.csproj", "{9166AAED-1875-4DD2-926F-AAD0BB2CBF30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharactersCountInString", "CharactersCountInString\CharactersCountInString.csproj", "{9166AAED-1875-4DD2-926F-AAD0BB2CBF30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceMultipleSpacesWithSingleSpace", "ReplaceMultipleSpacesWithSingleSpace\ReplaceMultipleSpacesWithSingleSpace.csproj", "{876B41FC-6102-4240-A857-EE343D0EB3D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReplaceMultipleSpacesWithSingleSpace", "ReplaceMultipleSpacesWithSingleSpace\ReplaceMultipleSpacesWithSingleSpace.csproj", "{876B41FC-6102-4240-A857-EE343D0EB3D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsInStatement", "ReverseWordsInStatement\ReverseWordsInStatement.csproj", "{65CFDB5C-5F4F-4D82-8878-63280BB9A29D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{876B41FC-6102-4240-A857-EE343D0EB3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{876B41FC-6102-4240-A857-EE343D0EB3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{876B41FC-6102-4240-A857-EE343D0EB3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65CFDB5C-5F4F-4D82-8878-63280BB9A29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CFDB5C-5F4F-4D82-8878-63280BB9A29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CFDB5C-5F4F-4D82-8878-63280BB9A29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CFDB5C-5F4F-4D82-8878-63280BB9A29D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
