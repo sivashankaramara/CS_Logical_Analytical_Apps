@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharactersCountInString", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReplaceMultipleSpacesWithSingleSpace", "ReplaceMultipleSpacesWithSingleSpace\ReplaceMultipleSpacesWithSingleSpace.csproj", "{876B41FC-6102-4240-A857-EE343D0EB3D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsInStatement", "ReverseWordsInStatement\ReverseWordsInStatement.csproj", "{65CFDB5C-5F4F-4D82-8878-63280BB9A29D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWordsInStatement", "ReverseWordsInStatement\ReverseWordsInStatement.csproj", "{65CFDB5C-5F4F-4D82-8878-63280BB9A29D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sring_Comparision_3Ways", "Sring_Comparision_3Ways\Sring_Comparision_3Ways.csproj", "{B32E597E-C9B7-4662-9450-239C5BD5AB83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{65CFDB5C-5F4F-4D82-8878-63280BB9A29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65CFDB5C-5F4F-4D82-8878-63280BB9A29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65CFDB5C-5F4F-4D82-8878-63280BB9A29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32E597E-C9B7-4662-9450-239C5BD5AB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32E597E-C9B7-4662-9450-239C5BD5AB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32E597E-C9B7-4662-9450-239C5BD5AB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32E597E-C9B7-4662-9450-239C5BD5AB83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
