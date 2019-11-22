@@ -8,7 +8,7 @@ namespace ReplaceMultipleSpacesWithSingleSpace
         {
             Console.WriteLine("Provide input string");
             string strInput = Console.ReadLine();
-            strInput = string.Join(" ", strInput.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries));            
+            strInput = string.Join(" ", strInput.Split(' ', StringSplitOptions.RemoveEmptyEntries));            
             Console.WriteLine($"Output after replacing: {strInput}");
             Console.ReadKey();
         }

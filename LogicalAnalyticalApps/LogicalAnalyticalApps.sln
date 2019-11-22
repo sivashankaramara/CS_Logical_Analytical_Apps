@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sring_Comparision_3Ways", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection_3Types", "DependencyInjection_3Types\DependencyInjection_3Types.csproj", "{B1589096-177E-40B3-B0D7-565128E55016}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Value_Reference_Type", "Value_Reference_Type\Value_Reference_Type.csproj", "{0C468241-42FE-44D6-94D5-55AEF87D2DC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{B1589096-177E-40B3-B0D7-565128E55016}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1589096-177E-40B3-B0D7-565128E55016}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1589096-177E-40B3-B0D7-565128E55016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C468241-42FE-44D6-94D5-55AEF87D2DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C468241-42FE-44D6-94D5-55AEF87D2DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C468241-42FE-44D6-94D5-55AEF87D2DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C468241-42FE-44D6-94D5-55AEF87D2DC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
